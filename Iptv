@@ -43,8 +43,12 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas Acción",Los indestructibles 3 (2014)
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas Acción",Los indestructibles 4 (2023)
+http://archive.org/download/V67Q9VIN/LINST423.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas Aventura",Los indestructibles 2 (2012)
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas Aventura",Los indestructibles 4
+http://archive.org/download/V67Q9VIN/LINST423.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas Suspenso",Los Indestructibles (2010)
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas Suspenso",Los indestructibles 3 (2014)
