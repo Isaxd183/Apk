@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/950_MCRT_Cristiana.png" group-title="Canales Religiosos",MCRT Cristiana
+https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/8/82/Azteca_Deportes.jpg/revision/latest?cb=20211120193727&path-prefix=es" group-title="Deporte",AZTECA DEPORTES
 http://199.127.63.105:8989/278576_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Deporte",Billiard TV (1080p)
@@ -9,18 +11,6 @@ https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png" group-title="Deporte",DSPORTS
 http://200.60.124.19:29000/play/a081/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQpX3TdKLy6eMaq6ChWHjqKAKN5czaheNkf1uwAguBj8B9HGsz2YbYr0Y&s=10" group-title="Deporte",Fox Sports
-http://199.127.63.105:8989/278595_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="Deporte",Fox Sports Premium
-http://199.127.63.105:8989/278598_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY75m_zEXliqVw24En2FqKfgBBhsMckNbAiTTpq1Toz1LSlUGk9Y1lxGc&s=10" group-title="Deporte",Fox Sports 2
-http://199.127.63.105:8989/278590_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/3/32/TUDN_M%C3%A9xico.jpg/revision/latest/thumbnail/width/360/height/360?cb=20211120191946&path-prefix=es" group-title="Deporte",TUDN
-http://199.127.63.143:8989/278559_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/3/32/TUDN_M%C3%A9xico.jpg/revision/latest/thumbnail/width/360/height/360?cb=20211120191946&path-prefix=es" group-title="Deporte",TUDN USA
-https://dcs3-live.mp.lura.live/server/play/08B9B4TW61Rdc58j/manifest.m3u8?encp=zuvPJYoOOdEMDNF2j2mvmg:N2OOXmh9wfa3civuEGrTdnQzVN6KJw_4n9FoAMLcA3UPM32hOZahXZDo9VGE4qp2ctShs4E8hZSHSLYi3aecRFC6QGVV6kzLsVLPkS0fq-4vXFjGV6ONSYepsbhnqVG1&anvauth=tb=0~te=2147483000~sgn=3c466ba83c45a098f05dfac9206881e9d042b57942068ee403094cf98d69a55b&t=1746459401&an={{appName}}&msid={{appPackage}}&app_bundle={{appPackage}}&idtype={{IFA_TYPE}}&rdid={{DID}}&is_lat={{DNT}}&ip={{ipAddr}}&user_agent={{UserAgent}}
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190322042416/969274_461656220600014_301333140_n.jpg" group-title="Deporte",UFC
-https://linear-893.frequency.stream:443/dist/xumo/893/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png" group-title="Deporte",DSPORTS
 http://200.60.124.19:29000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQpX3TdKLy6eMaq6ChWHjqKAKN5czaheNkf1uwAguBj8B9HGsz2YbYr0Y&s=10" group-title="Deporte",Fox Sports
@@ -35,6 +25,46 @@ http://199.127.63.143:8989/278559_.m3u8
 https://dcs3-live.mp.lura.live/server/play/08B9B4TW61Rdc58j/manifest.m3u8?encp=zuvPJYoOOdEMDNF2j2mvmg:N2OOXmh9wfa3civuEGrTdnQzVN6KJw_4n9FoAMLcA3UPM32hOZahXZDo9VGE4qp2ctShs4E8hZSHSLYi3aecRFC6QGVV6kzLsVLPkS0fq-4vXFjGV6ONSYepsbhnqVG1&anvauth=tb=0~te=2147483000~sgn=3c466ba83c45a098f05dfac9206881e9d042b57942068ee403094cf98d69a55b&t=1746459401&an={{appName}}&msid={{appPackage}}&app_bundle={{appPackage}}&idtype={{IFA_TYPE}}&rdid={{DID}}&is_lat={{DNT}}&ip={{ipAddr}}&user_agent={{UserAgent}}
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190322042416/969274_461656220600014_301333140_n.jpg" group-title="Deporte",UFC
 https://linear-893.frequency.stream:443/dist/xumo/893/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQpX3TdKLy6eMaq6ChWHjqKAKN5czaheNkf1uwAguBj8B9HGsz2YbYr0Y&s=10" group-title="Deporte",Fox Sports
+http://199.127.63.105:8989/278595_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="Deporte",Fox Sports Premium
+http://199.127.63.105:8989/278598_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY75m_zEXliqVw24En2FqKfgBBhsMckNbAiTTpq1Toz1LSlUGk9Y1lxGc&s=10" group-title="Deporte",Fox Sports 2
+http://199.127.63.105:8989/278590_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/3/32/TUDN_M%C3%A9xico.jpg/revision/latest/thumbnail/width/360/height/360?cb=20211120191946&path-prefix=es" group-title="Deporte",TUDN
+http://199.127.63.143:8989/278559_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/3/32/TUDN_M%C3%A9xico.jpg/revision/latest/thumbnail/width/360/height/360?cb=20211120191946&path-prefix=es" group-title="Deporte",TUDN USA
+https://dcs3-live.mp.lura.live/server/play/08B9B4TW61Rdc58j/manifest.m3u8?encp=zuvPJYoOOdEMDNF2j2mvmg:N2OOXmh9wfa3civuEGrTdnQzVN6KJw_4n9FoAMLcA3UPM32hOZahXZDo9VGE4qp2ctShs4E8hZSHSLYi3aecRFC6QGVV6kzLsVLPkS0fq-4vXFjGV6ONSYepsbhnqVG1&anvauth=tb=0~te=2147483000~sgn=3c466ba83c45a098f05dfac9206881e9d042b57942068ee403094cf98d69a55b&t=1746459401&an={{appName}}&msid={{appPackage}}&app_bundle={{appPackage}}&idtype={{IFA_TYPE}}&rdid={{DID}}&is_lat={{DNT}}&ip={{ipAddr}}&user_agent={{UserAgent}}
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190322042416/969274_461656220600014_301333140_n.jpg" group-title="Deporte",UFC
+https://linear-893.frequency.stream:443/dist/xumo/893/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas Acción",Los Indestructibles
+http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas Acción",Los indestructibles 2 (2012)
+http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas Acción",Los indestructibles 3 (2014)
+http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas Aventura",Los indestructibles 2 (2012)
+http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas Suspenso",Los Indestructibles (2010)
+http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas Suspenso",Los indestructibles 3 (2014)
+http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/8a/42/62/8a42629886336018af346f2c79dbb234/8a42629886336018af346f2c79dbb234.15.jpg" group-title="Videos XXX",por el culo no amor me duele - pendeja argentina no dura nada
+https://cdn77-vid-mp4.xvideos-cdn.com/6J90_h0MQOw9Zh4WQmL5nw==,1760047881/videos/mp4/8/a/4/xvideos.com_8a42629886336018af346f2c79dbb234.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va3RvcGJiODQyYi9wb3JfZWxfY3Vsbw==
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/6e/12/a3/6e12a3f43a98b451ff2700d05b51a0bd/6e12a3f43a98b451ff2700d05b51a0bd.11.jpg" group-title="Videos XXX",Espio a la mama de mi amigo
+https://cdn77-vid-mp4.xvideos-cdn.com/UUegjWkpmTGousVZqtltmQ==,1760047935/videos/mp4/6/e/1/xvideos.com_6e12a3f43a98b451ff2700d05b51a0bd.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va2hkaXBrNzAzYS9lc3Bpb19hX2xhXw==
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/68/16/75/681675cf4fbe174f54eb479007d9c5a8/681675cf4fbe174f54eb479007d9c5a8.14.jpg" group-title="Videos XXX",Prostituta callejera con gafas de sol hace una mamada increíble y recibe un facial enorme
+https://cdn77-vid-mp4.xvideos-cdn.com/Z7anlRAN8N25zXcoMezqGw==,1760047968/videos/mp4/6/8/1/xvideos.com_681675cf4fbe174f54eb479007d9c5a8.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va2hiY2ZiM2I5ZS9wcm9zdGl0dXRhXw==
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/c1/e1/2d/c1e12df41585ff2468c12462c0d45087/c1e12df41585ff2468c12462c0d45087.30.jpg" group-title="Videos XXX",¿Te corriste dentro? Corrida enorme accidental para la esposa de mi amigo
+https://cdn77-vid-mp4.xvideos-cdn.com/CiRWhMTmT_vcSVx9CY7Nog==,1760048408/videos/mp4/c/1/e/xvideos.com_c1e12df41585ff2468c12462c0d45087.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va3RodG1iNjZhOC9fdGVfY29ycmlzdA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/6e/24/15/6e2415e686c3dace8e3ce92650b802f5/6e2415e686c3dace8e3ce92650b802f5.11.jpg" group-title="Videos XXX",Mi entrenador travieso me siguió en la ducha
+https://cdn77-vid-mp4.xvideos-cdn.com/UaBuaD8sZEwHfLkmjU0ZPA==,1760048440/videos/mp4/6/e/2/xvideos.com_6e2415e686c3dace8e3ce92650b802f5.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va2hjaGNkZGY3Yi9taV9lbnRyZW5hZA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/39/ca/81/39ca81702465e5699c970a0fe075ecb3/39ca81702465e5699c970a0fe075ecb3.25.jpg" group-title="Videos XXX",VERDAD O RETO ENTRE PAREJAS
+https://cdn77-vid-mp4.xvideos-cdn.com/aNbKARQQFRgpFMPLiYAW_Q==,1760048475/videos/mp4/3/9/c/xvideos.com_39ca81702465e5699c970a0fe075ecb3.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5vaHBmY2xrNDkyNi92ZXJkYWRfb19yZQ==
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/8d/10/95/8d1095cf77ffdeaed73519b272a15d68/8d1095cf77ffdeaed73519b272a15d68.30.jpg" group-title="Videos XXX",Pareja desvergonzada follando como perros
+https://cdn77-vid-mp4.xvideos-cdn.com/PgwKLa7eRcIHlaG18PVYIw==,1760048507/videos/mp4/8/d/1/xvideos.com_8d1095cf77ffdeaed73519b272a15d68.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5vaWZvdWhkYzBjMS9wYXJlamFfZGVzdg==
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/02/80/ee/0280eee82ebc4128f9433cd467e80162/0280eee82ebc4128f9433cd467e80162.27.jpg" group-title="Videos XXX",Cómo le doy duro a la amiga de mi novia. Creo que elegí mal la novia
+https://cdn77-vid-mp4.xvideos-cdn.com/m9Yu1l2nvFwp58NRzz8aig==,1760048539/videos/mp4/0/2/8/xvideos.com_0280eee82ebc4128f9433cd467e80162.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va2hkaW1tNGY1Yi9jb21vX2xlX2RveQ==
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/nNwkXp1.png" group-title="XXX 24/7",Miami tv
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/nNwkXp1.png" group-title="XXX 24/7",Miami tv 2
@@ -63,34 +93,4 @@ http://clubtv.link/01oct/phpcode/hot.php?c=livecams&f=.m3u8
 http://clubtv.link/01oct/phpcode/hot.php?c=milf&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX 24/7",Big Dick
 http://clubtv.link/01oct/phpcode/hot.php?c=bigdick&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/950_MCRT_Cristiana.png" group-title="Canales Religiosos",MCRT Cristiana
-https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/8a/42/62/8a42629886336018af346f2c79dbb234/8a42629886336018af346f2c79dbb234.15.jpg" group-title="Videos XXX",por el culo no amor me duele - pendeja argentina no dura nada
-https://cdn77-vid-mp4.xvideos-cdn.com/6J90_h0MQOw9Zh4WQmL5nw==,1760047881/videos/mp4/8/a/4/xvideos.com_8a42629886336018af346f2c79dbb234.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va3RvcGJiODQyYi9wb3JfZWxfY3Vsbw==
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/6e/12/a3/6e12a3f43a98b451ff2700d05b51a0bd/6e12a3f43a98b451ff2700d05b51a0bd.11.jpg" group-title="Videos XXX",Espio a la mama de mi amigo
-https://cdn77-vid-mp4.xvideos-cdn.com/UUegjWkpmTGousVZqtltmQ==,1760047935/videos/mp4/6/e/1/xvideos.com_6e12a3f43a98b451ff2700d05b51a0bd.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va2hkaXBrNzAzYS9lc3Bpb19hX2xhXw==
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/68/16/75/681675cf4fbe174f54eb479007d9c5a8/681675cf4fbe174f54eb479007d9c5a8.14.jpg" group-title="Videos XXX",Prostituta callejera con gafas de sol hace una mamada increíble y recibe un facial enorme
-https://cdn77-vid-mp4.xvideos-cdn.com/Z7anlRAN8N25zXcoMezqGw==,1760047968/videos/mp4/6/8/1/xvideos.com_681675cf4fbe174f54eb479007d9c5a8.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va2hiY2ZiM2I5ZS9wcm9zdGl0dXRhXw==
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/c1/e1/2d/c1e12df41585ff2468c12462c0d45087/c1e12df41585ff2468c12462c0d45087.30.jpg" group-title="Videos XXX",¿Te corriste dentro? Corrida enorme accidental para la esposa de mi amigo
-https://cdn77-vid-mp4.xvideos-cdn.com/CiRWhMTmT_vcSVx9CY7Nog==,1760048408/videos/mp4/c/1/e/xvideos.com_c1e12df41585ff2468c12462c0d45087.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va3RodG1iNjZhOC9fdGVfY29ycmlzdA==
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/6e/24/15/6e2415e686c3dace8e3ce92650b802f5/6e2415e686c3dace8e3ce92650b802f5.11.jpg" group-title="Videos XXX",Mi entrenador travieso me siguió en la ducha
-https://cdn77-vid-mp4.xvideos-cdn.com/UaBuaD8sZEwHfLkmjU0ZPA==,1760048440/videos/mp4/6/e/2/xvideos.com_6e2415e686c3dace8e3ce92650b802f5.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va2hjaGNkZGY3Yi9taV9lbnRyZW5hZA==
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/39/ca/81/39ca81702465e5699c970a0fe075ecb3/39ca81702465e5699c970a0fe075ecb3.25.jpg" group-title="Videos XXX",VERDAD O RETO ENTRE PAREJAS
-https://cdn77-vid-mp4.xvideos-cdn.com/aNbKARQQFRgpFMPLiYAW_Q==,1760048475/videos/mp4/3/9/c/xvideos.com_39ca81702465e5699c970a0fe075ecb3.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5vaHBmY2xrNDkyNi92ZXJkYWRfb19yZQ==
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/8d/10/95/8d1095cf77ffdeaed73519b272a15d68/8d1095cf77ffdeaed73519b272a15d68.30.jpg" group-title="Videos XXX",Pareja desvergonzada follando como perros
-https://cdn77-vid-mp4.xvideos-cdn.com/PgwKLa7eRcIHlaG18PVYIw==,1760048507/videos/mp4/8/d/1/xvideos.com_8d1095cf77ffdeaed73519b272a15d68.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5vaWZvdWhkYzBjMS9wYXJlamFfZGVzdg==
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/02/80/ee/0280eee82ebc4128f9433cd467e80162/0280eee82ebc4128f9433cd467e80162.27.jpg" group-title="Videos XXX",Cómo le doy duro a la amiga de mi novia. Creo que elegí mal la novia
-https://cdn77-vid-mp4.xvideos-cdn.com/m9Yu1l2nvFwp58NRzz8aig==,1760048539/videos/mp4/0/2/8/xvideos.com_0280eee82ebc4128f9433cd467e80162.mp4?ui=MTM4LjExNy4xMS4yNDYtLS92aWRlby5va2hkaW1tNGY1Yi9jb21vX2xlX2RveQ==
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas Acción",Los Indestructibles
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas Acción",Los indestructibles 2 (2012)
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas Acción",Los indestructibles 3 (2014)
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas Suspenso",Los Indestructibles (2010)
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas Suspenso",Los indestructibles 3 (2014)
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas Aventura",Los indestructibles 2 (2012)
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 
