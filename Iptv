@@ -95,4 +95,6 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist&f=.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="pruebas!",Prueba Okru
 https://vd568.okcdn.ru/?expires=1760264265971&srcIp=157.180.71.235&pr=10&srcAg=CHROME&ms=45.136.21.55&type=4&sig=y0Z6Zow6ldg&ct=0&urls=45.136.22.77&clientType=0&zs=12&id=5890358250212
+#EXTINF:-1 tvg-id="" tvg-logo="xd.jpg" group-title="pruebas!",Pruebas Okru 2
+https://vd568.okcdn.ru/?expires=1760265411723&srcIp=181.46.136.66&pr=10&srcAg=CHROME_ANDROID&ch=-1335630616&ms=45.136.21.55&type=1&sig=TEfmcMbtE3A&ct=6&urls=45.136.22.77&clientType=1&zs=43&id=5890358250212
 
