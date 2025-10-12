@@ -39,8 +39,14 @@ https://s1.vimeos.net/hls2/05/00005/hhiokekhqyxi_h/index-v1-a1.m3u8?t=JrgP-9JKqZ
 https://cdn-lglttksvjqjetqih.orbitcache.com/engine/hls2/01/11995/adpyxkcfqrqi_,n,.urlset/index-v1-a1.m3u8?t=zUrgdWxqRJp09YC67sP2VSu65Ozd6XOut6Gtc2_8MhA&s=1760230991&e=14400&f=59979343&node=+2bpgJxXD7r0sv08PpTAO10XicJpMqJ6crJQWOZy8GQ=&i=0.1&sp=2500&asn=27747&q=n&rq=0bMnBIBd3SMoOqonYMV6mbB8TwiQhWF7TZVtwTCx
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/xdK5Rrnp0bSC7oby4_hY1u-ngVQSVGczWx84dD-rD6bfwLpxlWGBpnvsJnqPg8VLDQSl" group-title="Peliculas Comedia Física",los tres chiflados (2012)
 https://cdn-lglttksvjqjetqih.orbitcache.com/engine/hls2/01/11995/adpyxkcfqrqi_,n,.urlset/index-v1-a1.m3u8?t=zUrgdWxqRJp09YC67sP2VSu65Ozd6XOut6Gtc2_8MhA&s=1760230991&e=14400&f=59979343&node=+2bpgJxXD7r0sv08PpTAO10XicJpMqJ6crJQWOZy8GQ=&i=0.1&sp=2500&asn=27747&q=n&rq=0bMnBIBd3SMoOqonYMV6mbB8TwiQhWF7TZVtwTCx
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IyN2YxN2MtNjcyMy00ZTExLTgwZWMtZDMwYTliOTY4MDYyXkEyXkFqcGc@._V1_.jpg" group-title="Películas Drama",Una batalla tras otra (2025)
-https://s1.vimeos.net/hls2/05/00005/hhiokekhqyxi_h/index-v1-a1.m3u8?t=JrgP-9JKqZvAx2rPcNEl-T_7nIOAMbKW9MWPCUbnrDo&s=1760184442&e=43200&v=12874347&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Peliculas Crimen",Ciudad de Dios (2002) [Vimeos]
+https://s1.vimeos.net/hls2/04/00004/,35wttgmpnem1_h,.urlset/master.m3u8?t=maR5uWJhrxHhScW_TFiENK2aXuXknDGVq6uLVVRz724&s=1760240950&e=43200&v=13127345&i=0.0&sp=1000&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Peliculas Crimen",Ciudad de Dios (2002) [Goodstream]
+https://hls1.goodstream.one/hls2/01/00038/dp5tavu8bgim_,l,n,h,x,.urlset/master.m3u8?t=RwqyTpnK3ouEi-9JiGx5y_SOyWY0tSaEu_cNXvoEQYg&s=1760241367&e=43200&v=150287969&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Películas Drama",Ciudad de Dios (2002) [Goodstream]
+https://hls1.goodstream.one/hls2/01/00038/dp5tavu8bgim_,l,n,h,x,.urlset/master.m3u8?t=RwqyTpnK3ouEi-9JiGx5y_SOyWY0tSaEu_cNXvoEQYg&s=1760241367&e=43200&v=150287969&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Películas Drama",Ciudad de Dios (2002) [Vimeos]
+https://s1.vimeos.net/hls2/04/00004/,35wttgmpnem1_h,.urlset/master.m3u8?t=maR5uWJhrxHhScW_TFiENK2aXuXknDGVq6uLVVRz724&s=1760240950&e=43200&v=13127345&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IyN2YxN2MtNjcyMy00ZTExLTgwZWMtZDMwYTliOTY4MDYyXkEyXkFqcGc@._V1_.jpg" group-title="Películas Drama",Una batalla tras otra (2025)
 https://s1.vimeos.net/hls2/05/00005/hhiokekhqyxi_h/index-v1-a1.m3u8?t=JrgP-9JKqZvAx2rPcNEl-T_7nIOAMbKW9MWPCUbnrDo&s=1760184442&e=43200&v=12874347&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IyN2YxN2MtNjcyMy00ZTExLTgwZWMtZDMwYTliOTY4MDYyXkEyXkFqcGc@._V1_.jpg" group-title="Películas Estreno [CAM]",Una batalla tras otra (2025)
