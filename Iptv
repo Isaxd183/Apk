@@ -51,8 +51,8 @@ https://s1.vimeos.net/hls2/05/00005/hhiokekhqyxi_h/index-v1-a1.m3u8?t=JrgP-9JKqZ
 https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFMQczyPBMjXUBza2ZWQDgo2rpLpWh0QMENI&s=1760183825&e=43200&v=12873781&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/16/La_escuela_del_bien_y_del_mal.jpg/revision/latest?cb=20221020185651&path-prefix=es" group-title="Películas Fantasía",La escuela del Bien y del Mal (2022)
 https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFMQczyPBMjXUBza2ZWQDgo2rpLpWh0QMENI&s=1760183825&e=43200&v=12873781&i=0.0&sp=0&r=e
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/16/La_escuela_del_bien_y_del_mal.jpg/revision/latest?cb=20221020185651&path-prefix=es" group-title="Películas Infantil",La escuela del Bien y del Mal (2022)
-https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFMQczyPBMjXUBza2ZWQDgo2rpLpWh0QMENI&s=1760183825&e=43200&v=12873781&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/dog_man/posters/01.jpg" group-title="Películas Infantil",Las aventuras de Dog Man (2025)
+https://s1.vimeos.net/hls2/05/00000/,2xlfwt7g0il2_h,.urlset/master.m3u8?t=oprHeIrp1OACmAauik96bylUB72MVoKsRHJ7_rbalp8&s=1760238373&e=43200&v=13108615&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Infantil",La cita de Carl (2023)
 https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu9U7jGHy0du8Nqb1DogCabW8q5YcRaIwO8&s=1760229185&e=43200&v=13043788&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Infantil",La cita de Carl (2023)
@@ -69,5 +69,4 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas suspenso",Los indestructibles 3 (2014)
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
-
 
