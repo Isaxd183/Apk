@@ -35,6 +35,8 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 http://archive.org/download/V67Q9VIN/LINST423.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/mulan-307796523-large.jpg" group-title="Películas acción",Mulan (2020)
 http://144.217.70.79/VODS-M/1080P/Mulan%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.cdn1.buscalibre.com/fit-in/520x520/2e/64/2e64e8c40bacf7ab1420330e2cba8f44.jpg" group-title="Peliculas Animación",Los aristogatos (1970)
+http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/13688.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas aventura",Dumbo (2019)
 https://s1.vimeos.net/hls2/05/00000/,sg32bwexk94s_h,.urlset/master.m3u8?t=EjdKSjXbrtJdz6x7ReVOpDO1hPAUrJUZtrxeIYxPz7Q&s=1760385078&e=43200&v=13649836&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Filemoon]
@@ -215,6 +217,8 @@ https://s1.vimeos.net/hls2/04/00000/,1ryl6wrm9cbi_h,.urlset/master.m3u8?t=xotJNN
 http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%201996.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/331463650/s718/the-hunchback-of-notre-dame-ii.jpg" group-title="Peliculas Musical",El jorobado de Notre Dame 2 (2002)
 http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%20II%202002.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.cdn1.buscalibre.com/fit-in/520x520/2e/64/2e64e8c40bacf7ab1420330e2cba8f44.jpg" group-title="Peliculas Musical",Los aristogatos (1970)
+http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/13688.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Mulan-247098384-large.jpg" group-title="Peliculas Musical",Mulan (1998)
 http://144.217.70.79/VODS-M/1080P/Mulan%201998.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhmZTQ5OGMtNmYwMi00ZDM2LTg4YjMtZWY0ZmVjOWIzMDI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Musical",Pinocchio (2022)
