@@ -17,8 +17,6 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas acción",Los indestructibles 4 (2023)
 http://archive.org/download/V67Q9VIN/LINST423.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Filemoon]
-https://be7713.rcr82.waw05.i8yz83pn.com/hls2/08/09407/o5pgptlmyh0e_x/master.m3u8?t=storc3eCmqbhyBaPsCwF-299Wzc6NtLv17qw_EipPgw&s=1760338808&e=10800&f=47036301&srv=1055&asn=263754&sp=5500&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Goodstream]
 https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_n/index-v1-a1.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Goodstream 2]
@@ -35,6 +33,8 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas acción",Los indestructibles 4 (2023)
 http://archive.org/download/V67Q9VIN/LINST423.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/mulan-307796523-large.jpg" group-title="Películas acción",Mulan (2020)
+http://144.217.70.79/VODS-M/1080P/Mulan%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas aventura",Dumbo (2019)
 https://s1.vimeos.net/hls2/05/00000/,sg32bwexk94s_h,.urlset/master.m3u8?t=EjdKSjXbrtJdz6x7ReVOpDO1hPAUrJUZtrxeIYxPz7Q&s=1760385078&e=43200&v=13649836&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Filemoon]
@@ -51,16 +51,16 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 http://archive.org/download/V67Q9VIN/LINST423.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Goodstream]
 https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_n/index-v1-a1.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Goodstream 2]
-https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_,l,n,h,.urlset/master.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Voe]
-https://cdn-cwue1hiuzak8hq6u.orbitcache.com/engine/hls2/01/14798/udqsqohlfaem_,n,.urlset/master.m3u8?t=cdJlYI4UkBoRvVK3xRcQqbhqQCLJpZ_dK2T41ve_c8o&s=1760338665&e=14400&f=74077421&node=BjOABbk8CCGbUYj3O1ye89Eqwo3NqCenEbYEtJlKxtY=&i=0.1&sp=2500&asn=263754&q=n&rq=RE3dmxvteC9xYeks54Hrfaf77KkxOsoysvUxa5u2
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Vimeos]
 https://s3.vimeos.net/hls2/01/00004/,im2l7xko24xc_h,.urlset/master.m3u8?t=iNBr1LYIulpz5Hzv9PlYpQNWzER1OXcPzz3d7OYdQ8o&s=1760338131&e=43200&v=13522557&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas aventura",Los indestructibles 2 (2012)
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas aventura",Los indestructibles 4
 http://archive.org/download/V67Q9VIN/LINST423.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/mulan_ii-261384016-large.jpg" group-title="Películas aventura",Mulán 2 (2004)
+http://144.217.70.79/VODS-M/1080P/Mulan%202%202004.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/mulan-307796523-large.jpg" group-title="Películas aventura",Mulan (2020)
+http://144.217.70.79/VODS-M/1080P/Mulan%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/movie/posters/1953/2/movie-10693/w1280/be1s98ENKmZIVdqdr9xggn6q4qf.jpg" group-title="Películas aventura",Peter Pan (1953)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/pocahontas_ii_journey_to_a_new_world-142567341-large.jpg" group-title="Películas aventura",Pocahontas 2 (1998)
@@ -187,6 +187,10 @@ https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFM
 https://s1.vimeos.net/hls2/05/00000/,2xlfwt7g0il2_h,.urlset/master.m3u8?t=oprHeIrp1OACmAauik96bylUB72MVoKsRHJ7_rbalp8&s=1760238373&e=43200&v=13108615&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/dog_man/posters/01.jpg" group-title="Películas Infantil",Las aventuras de Dog Man (Filemoon)
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/03/09873/suyjng6gbm9b_x/master.m3u8?t=8iiKUp6IhazcrYyx02OuKWaDGWil6HACPlyfnJhEMaU&s=1760239198&e=10800&f=49365092&srv=30&asn=27747&sp=5500&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Mulan-247098384-large.jpg" group-title="Películas Infantil",Mulan (1998)
+http://144.217.70.79/VODS-M/1080P/Mulan%201998.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/mulan_ii-261384016-large.jpg" group-title="Películas Infantil",Mulán 2 (2004)
+http://144.217.70.79/VODS-M/1080P/Mulan%202%202004.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/movie/posters/1953/2/movie-10693/w1280/be1s98ENKmZIVdqdr9xggn6q4qf.jpg" group-title="Películas Infantil",Peter Pan (1953)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY0ODUyODQtYTE4NC00YTgwLTk1ZDgtNjUwNDRjZTIzNTJkXkEyXkFqcGc@._V1_.jpg" group-title="Películas Infantil",Pinocho (1940)
@@ -211,6 +215,8 @@ https://s1.vimeos.net/hls2/04/00000/,1ryl6wrm9cbi_h,.urlset/master.m3u8?t=xotJNN
 http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%201996.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/331463650/s718/the-hunchback-of-notre-dame-ii.jpg" group-title="Peliculas Musical",El jorobado de Notre Dame 2 (2002)
 http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%20II%202002.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Mulan-247098384-large.jpg" group-title="Peliculas Musical",Mulan (1998)
+http://144.217.70.79/VODS-M/1080P/Mulan%201998.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhmZTQ5OGMtNmYwMi00ZDM2LTg4YjMtZWY0ZmVjOWIzMDI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Musical",Pinocchio (2022)
 http://144.217.70.79/VODS-M/1080P/Pinocchio%202019.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/6b/Pocahontas_1995.jpg/revision/latest?cb=20200731233311&path-prefix=es" group-title="Peliculas Musical",Pocahontas (1995)
