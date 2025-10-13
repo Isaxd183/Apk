@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Filemoon]
+https://be7713.rcr82.waw05.i8yz83pn.com/hls2/08/09407/o5pgptlmyh0e_x/master.m3u8?t=storc3eCmqbhyBaPsCwF-299Wzc6NtLv17qw_EipPgw&s=1760338808&e=10800&f=47036301&srv=1055&asn=263754&sp=5500&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Goodstream]
+https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_n/index-v1-a1.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Goodstream 2]
+https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_,l,n,h,.urlset/master.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Voe]
+https://cdn-cwue1hiuzak8hq6u.orbitcache.com/engine/hls2/01/14798/udqsqohlfaem_,n,.urlset/master.m3u8?t=cdJlYI4UkBoRvVK3xRcQqbhqQCLJpZ_dK2T41ve_c8o&s=1760338665&e=14400&f=74077421&node=BjOABbk8CCGbUYj3O1ye89Eqwo3NqCenEbYEtJlKxtY=&i=0.1&sp=2500&asn=263754&q=n&rq=RE3dmxvteC9xYeks54Hrfaf77KkxOsoysvUxa5u2
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Vimeos]
+https://s3.vimeos.net/hls2/01/00004/,im2l7xko24xc_h,.urlset/master.m3u8?t=iNBr1LYIulpz5Hzv9PlYpQNWzER1OXcPzz3d7OYdQ8o&s=1760338131&e=43200&v=13522557&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas acción",Los indestructibles
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas acción",Los indestructibles 2 (2012)
@@ -7,18 +17,16 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas acción",Los indestructibles 4 (2023)
 http://archive.org/download/V67Q9VIN/LINST423.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas acción",Los indestructibles
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas acción",Los indestructibles 2 (2012)
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas acción",Los indestructibles 3 (2014)
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas acción",Los indestructibles 4 (2023)
-http://archive.org/download/V67Q9VIN/LINST423.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas aventura",Los indestructibles 2 (2012)
-http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas aventura",Los indestructibles 4
-http://archive.org/download/V67Q9VIN/LINST423.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Filemoon]
+https://be7713.rcr82.waw05.i8yz83pn.com/hls2/08/09407/o5pgptlmyh0e_x/master.m3u8?t=storc3eCmqbhyBaPsCwF-299Wzc6NtLv17qw_EipPgw&s=1760338808&e=10800&f=47036301&srv=1055&asn=263754&sp=5500&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Goodstream]
+https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_n/index-v1-a1.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Goodstream 2]
+https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_,l,n,h,.urlset/master.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Voe]
+https://cdn-cwue1hiuzak8hq6u.orbitcache.com/engine/hls2/01/14798/udqsqohlfaem_,n,.urlset/master.m3u8?t=cdJlYI4UkBoRvVK3xRcQqbhqQCLJpZ_dK2T41ve_c8o&s=1760338665&e=14400&f=74077421&node=BjOABbk8CCGbUYj3O1ye89Eqwo3NqCenEbYEtJlKxtY=&i=0.1&sp=2500&asn=263754&q=n&rq=RE3dmxvteC9xYeks54Hrfaf77KkxOsoysvUxa5u2
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Vimeos]
+https://s3.vimeos.net/hls2/01/00004/,im2l7xko24xc_h,.urlset/master.m3u8?t=iNBr1LYIulpz5Hzv9PlYpQNWzER1OXcPzz3d7OYdQ8o&s=1760338131&e=43200&v=13522557&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas aventura",Los indestructibles 2 (2012)
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas aventura",Los indestructibles 4
