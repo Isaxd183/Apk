@@ -113,6 +113,8 @@ https://hls1.goodstream.one/hls2/01/00038/dp5tavu8bgim_,l,n,h,x,.urlset/master.m
 https://s1.vimeos.net/hls2/04/00004/,35wttgmpnem1_h,.urlset/master.m3u8?t=maR5uWJhrxHhScW_TFiENK2aXuXknDGVq6uLVVRz724&s=1760240950&e=43200&v=13127345&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Peliculas Crimen",Ciudad de Dios (2002) [Goodstream]
 https://hls1.goodstream.one/hls2/01/00038/dp5tavu8bgim_,l,n,h,x,.urlset/master.m3u8?t=RwqyTpnK3ouEi-9JiGx5y_SOyWY0tSaEu_cNXvoEQYg&s=1760241367&e=43200&v=150287969&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/45/46/20281036.jpg" group-title="Películas Drama",8 Mile (2002)
+http://archive.org/download/imagen-1_202005/4.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Películas Drama",Ciudad de Dios (2002) [Goodstream]
 https://hls1.goodstream.one/hls2/01/00038/dp5tavu8bgim_,l,n,h,x,.urlset/master.m3u8?t=RwqyTpnK3ouEi-9JiGx5y_SOyWY0tSaEu_cNXvoEQYg&s=1760241367&e=43200&v=150287969&srv=s2&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Películas Drama",Ciudad de Dios (2002) [Vimeos]
@@ -177,6 +179,8 @@ http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas Infantil",Dumbo (2019)
 https://s1.vimeos.net/hls2/05/00000/,sg32bwexk94s_h,.urlset/master.m3u8?t=EjdKSjXbrtJdz6x7ReVOpDO1hPAUrJUZtrxeIYxPz7Q&s=1760385078&e=43200&v=13649836&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/45/46/20281036.jpg" group-title="Peliculas Musical",8 Mile (2002)
+http://archive.org/download/imagen-1_202005/4.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Filemoon]
 https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/06041/qnzz76xand9y_h/master.m3u8?t=GuBpGt3H6Vi8qHz6tujrfzrNpwZ6cZmQ_ocIPDollB8&s=1760383593&e=10800&f=42372722&srv=1075&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Goodstream]
@@ -227,3 +231,4 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 http://144.217.70.79/VODS-M/1080P/Cars%203%202017.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Peliculas Wéstern",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
+
