@@ -63,6 +63,8 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 http://archive.org/download/V67Q9VIN/LINST423.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/movie/posters/1953/2/movie-10693/w1280/be1s98ENKmZIVdqdr9xggn6q4qf.jpg" group-title="Películas aventura",Peter Pan (1953)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/pocahontas_ii_journey_to_a_new_world-142567341-large.jpg" group-title="Películas aventura",Pocahontas 2 (1998)
+http://144.217.70.79/VODS-M/1080P/Pocahontas%202%201998.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Películas aventura",Troya (2004) [Goodstream]
 https://hls1.goodstream.one/hls2/02/00010/dir3w4vxlfcc_,l,n,h,.urlset/master.m3u8?t=GRPemwMY_avn6aY_JqH1IRYFMPT6-XAmi8Nwqds78Vo&s=1760394380&e=43200&v=151141254&srv=s1&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Películas aventura",Troya (2004) [Vimeos]
@@ -161,6 +163,8 @@ http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
 http://144.217.70.79/VODS-M/1080P/Cars%202%202011.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/fbca6649-d974-4c22-bf04-37dfa73768fc/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Películas Infantil",Cars 3 (2017)
 http://144.217.70.79/VODS-M/1080P/Cars%203%202017.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas Infantil",Dumbo (2019)
+https://s1.vimeos.net/hls2/05/00000/,sg32bwexk94s_h,.urlset/master.m3u8?t=EjdKSjXbrtJdz6x7ReVOpDO1hPAUrJUZtrxeIYxPz7Q&s=1760385078&e=43200&v=13649836&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Películas Infantil",Dumbo (1941) [Filemoon]
 https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/06041/qnzz76xand9y_h/master.m3u8?t=GuBpGt3H6Vi8qHz6tujrfzrNpwZ6cZmQ_ocIPDollB8&s=1760383593&e=10800&f=42372722&srv=1075&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Películas Infantil",Dumbo (1941) [Goodstream]
@@ -183,14 +187,16 @@ https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFM
 https://s1.vimeos.net/hls2/05/00000/,2xlfwt7g0il2_h,.urlset/master.m3u8?t=oprHeIrp1OACmAauik96bylUB72MVoKsRHJ7_rbalp8&s=1760238373&e=43200&v=13108615&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/dog_man/posters/01.jpg" group-title="Películas Infantil",Las aventuras de Dog Man (Filemoon)
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/03/09873/suyjng6gbm9b_x/master.m3u8?t=8iiKUp6IhazcrYyx02OuKWaDGWil6HACPlyfnJhEMaU&s=1760239198&e=10800&f=49365092&srv=30&asn=27747&sp=5500&p=
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY0ODUyODQtYTE4NC00YTgwLTk1ZDgtNjUwNDRjZTIzNTJkXkEyXkFqcGc@._V1_.jpg" group-title="Películas Infantil",Pinocho (1940)
-http://144.217.70.79/VODS-M/1080P/Pinocchio%201940.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/movie/posters/1953/2/movie-10693/w1280/be1s98ENKmZIVdqdr9xggn6q4qf.jpg" group-title="Películas Infantil",Peter Pan (1953)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY0ODUyODQtYTE4NC00YTgwLTk1ZDgtNjUwNDRjZTIzNTJkXkEyXkFqcGc@._V1_.jpg" group-title="Películas Infantil",Pinocho (1940)
+http://144.217.70.79/VODS-M/1080P/Pinocchio%201940.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/6b/Pocahontas_1995.jpg/revision/latest?cb=20200731233311&path-prefix=es" group-title="Películas Infantil",Pocahontas (1995)
+http://144.217.70.79/VODS-M/1080P/Pocahontas%201995.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/pocahontas_ii_journey_to_a_new_world-142567341-large.jpg" group-title="Películas Infantil",Pocahontas 2 (1998)
+http://144.217.70.79/VODS-M/1080P/Pocahontas%202%201998.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Películas Infantil",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas Infantil",Dumbo (2019)
-https://s1.vimeos.net/hls2/05/00000/,sg32bwexk94s_h,.urlset/master.m3u8?t=EjdKSjXbrtJdz6x7ReVOpDO1hPAUrJUZtrxeIYxPz7Q&s=1760385078&e=43200&v=13649836&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/45/46/20281036.jpg" group-title="Peliculas Musical",8 Mile (2002)
 http://archive.org/download/imagen-1_202005/4.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Filemoon]
@@ -207,6 +213,8 @@ http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%201996.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%20II%202002.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhmZTQ5OGMtNmYwMi00ZDM2LTg4YjMtZWY0ZmVjOWIzMDI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Musical",Pinocchio (2022)
 http://144.217.70.79/VODS-M/1080P/Pinocchio%202019.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/6b/Pocahontas_1995.jpg/revision/latest?cb=20200731233311&path-prefix=es" group-title="Peliculas Musical",Pocahontas (1995)
+http://144.217.70.79/VODS-M/1080P/Pocahontas%201995.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.save-free.com/cdn/https://instagram.fiev21-1.fna.fbcdn.net/v/t51.2885-19/554685455_17858993637508485_8898130798192868126_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fiev21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEllnzYtylOTZIgjwvfKctfozFkMY5FRpJwSBdb7XyupbPHsDibL-hw4rBnY0Dp5M4&_nc_ohc=xS1KSxauOsEQ7kNvwE3kGCR&_nc_gid=K6eeavhgtwZFaoCBZUbmHQ&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AffGfnp5IdhLekm2m57EkrXU03R-qsOJG7XdCqit2rFSqQ&oe=68F09179&_nc_sid=1e20d2" group-title="Peliculas Romance",Buffalo '66 (1998)
 https://vd402.okcdn.ru/?expires=1760299361890&srcIp=157.180.71.235&pr=10&srcAg=CHROME&ms=185.226.52.47&type=3&sig=x2DzQs3rLlc&ct=0&urls=45.136.21.14&clientType=0&zs=12&id=1282610825874
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d6/Yesterday_2019.jpg/revision/latest?cb=20190901051528&path-prefix=es" group-title="Peliculas Romance",Yesterday (2019) [Vimeos]
