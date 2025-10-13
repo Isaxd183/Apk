@@ -35,10 +35,10 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas acción",Los indestructibles 4 (2023)
 http://archive.org/download/V67Q9VIN/LINST423.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas aventura",Dumbo (2019)
+https://s1.vimeos.net/hls2/05/00000/,sg32bwexk94s_h,.urlset/master.m3u8?t=EjdKSjXbrtJdz6x7ReVOpDO1hPAUrJUZtrxeIYxPz7Q&s=1760385078&e=43200&v=13649836&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Filemoon]
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/08/09407/o5pgptlmyh0e_x/master.m3u8?t=storc3eCmqbhyBaPsCwF-299Wzc6NtLv17qw_EipPgw&s=1760338808&e=10800&f=47036301&srv=1055&asn=263754&sp=5500&p=
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Goodstream]
-https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_n/index-v1-a1.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Goodstream 2]
 https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_,l,n,h,.urlset/master.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas aventura",La vieja guardia 2 (2025) [Voe]
@@ -147,10 +147,6 @@ http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
 http://144.217.70.79/VODS-M/1080P/Cars%202%202011.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/fbca6649-d974-4c22-bf04-37dfa73768fc/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Películas Infantil",Cars 3 (2017)
 http://144.217.70.79/VODS-M/1080P/Cars%203%202017.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhMTZkNDMtNGIxYi00NDg2LWE4NTctN2U1MzAxNmM3MzNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Películas Infantil",el jorobado de notre dame (1996)
-http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%201996.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/331463650/s718/the-hunchback-of-notre-dame-ii.jpg" group-title="Películas Infantil",El jorobado de Notre Dame 2 (2002)
-http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%20II%202002.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Películas Infantil",Dumbo (1941) [Filemoon]
 https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/06041/qnzz76xand9y_h/master.m3u8?t=GuBpGt3H6Vi8qHz6tujrfzrNpwZ6cZmQ_ocIPDollB8&s=1760383593&e=10800&f=42372722&srv=1075&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Películas Infantil",Dumbo (1941) [Goodstream]
@@ -159,22 +155,28 @@ https://hls1.goodstream.one/hls2/02/00022/dgqgdy5wqrnd_,l,n,h,x,.urlset/master.m
 https://cdn-bnepu613xxdnwxyr.orbitcache.com/engine/hls2/01/11275/lqzv21gywjuy_,n,.urlset/master.m3u8?t=EZbBLpliVwLvEhcq4oX93flhblu-XIuAO69dWXvS6WA&s=1760383522&e=14400&f=69815390&node=hblyY0ymAa2El4h+MI0K/30Z29my3bYPeRzJpzYFBgk=&i=0.1&sp=2500&asn=263754&q=n&rq=H2DpD24ghsy6qpGDY4xHJMLohTDydYy0r2GdO4rG
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Películas Infantil",Dumbo (1941) [Vimeos]
 https://s1.vimeos.net/hls2/04/00000/,1ryl6wrm9cbi_h,.urlset/master.m3u8?t=xotJNNISUi0OQs_KW9yhjef_pIGJLfnA6dWznhCLMzk&s=1760383270&e=43200&v=13641978&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhMTZkNDMtNGIxYi00NDg2LWE4NTctN2U1MzAxNmM3MzNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Películas Infantil",el jorobado de notre dame (1996)
+http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%201996.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/331463650/s718/the-hunchback-of-notre-dame-ii.jpg" group-title="Películas Infantil",El jorobado de Notre Dame 2 (2002)
+http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%20II%202002.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/1672c72b-52d8-4cad-92bb-9d4ab5277781/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Películas Infantil",La bella durmiente (1959)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/41253.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Infantil",La cita de Carl (2023)
 https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu9U7jGHy0du8Nqb1DogCabW8q5YcRaIwO8&s=1760229185&e=43200&v=13043788&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/16/La_escuela_del_bien_y_del_mal.jpg/revision/latest?cb=20221020185651&path-prefix=es" group-title="Películas Infantil",La escuela del Bien y del Mal (2022)
 https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFMQczyPBMjXUBza2ZWQDgo2rpLpWh0QMENI&s=1760183825&e=43200&v=12873781&i=0.0&sp=0&r=e
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY0ODUyODQtYTE4NC00YTgwLTk1ZDgtNjUwNDRjZTIzNTJkXkEyXkFqcGc@._V1_.jpg" group-title="Películas Infantil",Pinocho (1940)
-http://144.217.70.79/VODS-M/1080P/Pinocchio%201940.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/dog_man/posters/01.jpg" group-title="Películas Infantil",Las aventuras de Dog Man (2025)
 https://s1.vimeos.net/hls2/05/00000/,2xlfwt7g0il2_h,.urlset/master.m3u8?t=oprHeIrp1OACmAauik96bylUB72MVoKsRHJ7_rbalp8&s=1760238373&e=43200&v=13108615&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/dog_man/posters/01.jpg" group-title="Películas Infantil",Las aventuras de Dog Man (Filemoon)
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/03/09873/suyjng6gbm9b_x/master.m3u8?t=8iiKUp6IhazcrYyx02OuKWaDGWil6HACPlyfnJhEMaU&s=1760239198&e=10800&f=49365092&srv=30&asn=27747&sp=5500&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY0ODUyODQtYTE4NC00YTgwLTk1ZDgtNjUwNDRjZTIzNTJkXkEyXkFqcGc@._V1_.jpg" group-title="Películas Infantil",Pinocho (1940)
+http://144.217.70.79/VODS-M/1080P/Pinocchio%201940.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/movie/posters/1953/2/movie-10693/w1280/be1s98ENKmZIVdqdr9xggn6q4qf.jpg" group-title="Películas Infantil",Peter Pan (1953)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Películas Infantil",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas Infantil",Dumbo (2019)
+https://s1.vimeos.net/hls2/05/00000/,sg32bwexk94s_h,.urlset/master.m3u8?t=EjdKSjXbrtJdz6x7ReVOpDO1hPAUrJUZtrxeIYxPz7Q&s=1760385078&e=43200&v=13649836&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Filemoon]
 https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/06041/qnzz76xand9y_h/master.m3u8?t=GuBpGt3H6Vi8qHz6tujrfzrNpwZ6cZmQ_ocIPDollB8&s=1760383593&e=10800&f=42372722&srv=1075&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Goodstream]
@@ -225,4 +227,3 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 http://144.217.70.79/VODS-M/1080P/Cars%203%202017.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Peliculas Wéstern",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
-
