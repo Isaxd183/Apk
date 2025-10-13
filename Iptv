@@ -147,8 +147,8 @@ http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
 http://144.217.70.79/VODS-M/1080P/Cars%202%202011.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/fbca6649-d974-4c22-bf04-37dfa73768fc/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Películas Infantil",Cars 3 (2017)
 http://144.217.70.79/VODS-M/1080P/Cars%203%202017.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Infantil",La cita de Carl (2023)
-https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu9U7jGHy0du8Nqb1DogCabW8q5YcRaIwO8&s=1760229185&e=43200&v=13043788&i=0.0&sp=1000&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhMTZkNDMtNGIxYi00NDg2LWE4NTctN2U1MzAxNmM3MzNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Películas Infantil",el jorobado de notre dame (1996)
+http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%201996.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Infantil",La cita de Carl (2023)
 https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu9U7jGHy0du8Nqb1DogCabW8q5YcRaIwO8&s=1760229185&e=43200&v=13043788&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/16/La_escuela_del_bien_y_del_mal.jpg/revision/latest?cb=20221020185651&path-prefix=es" group-title="Películas Infantil",La escuela del Bien y del Mal (2022)
@@ -167,6 +167,8 @@ https://be7713.rcr82.waw05.i8yz83pn.com/hls2/03/09873/suyjng6gbm9b_x/master.m3u8
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Películas Infantil",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhMTZkNDMtNGIxYi00NDg2LWE4NTctN2U1MzAxNmM3MzNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Musical",el jorobado de notre dame (1996)
+http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%201996.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.save-free.com/cdn/https://instagram.fiev21-1.fna.fbcdn.net/v/t51.2885-19/554685455_17858993637508485_8898130798192868126_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fiev21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEllnzYtylOTZIgjwvfKctfozFkMY5FRpJwSBdb7XyupbPHsDibL-hw4rBnY0Dp5M4&_nc_ohc=xS1KSxauOsEQ7kNvwE3kGCR&_nc_gid=K6eeavhgtwZFaoCBZUbmHQ&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AffGfnp5IdhLekm2m57EkrXU03R-qsOJG7XdCqit2rFSqQ&oe=68F09179&_nc_sid=1e20d2" group-title="Peliculas Romance",Buffalo '66 (1998)
 https://vd402.okcdn.ru/?expires=1760299361890&srcIp=157.180.71.235&pr=10&srcAg=CHROME&ms=185.226.52.47&type=3&sig=x2DzQs3rLlc&ct=0&urls=45.136.21.14&clientType=0&zs=12&id=1282610825874
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d6/Yesterday_2019.jpg/revision/latest?cb=20190901051528&path-prefix=es" group-title="Peliculas Romance",Yesterday (2019) [Vimeos]
