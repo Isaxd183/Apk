@@ -63,6 +63,14 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 http://archive.org/download/V67Q9VIN/LINST423.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/movie/posters/1953/2/movie-10693/w1280/be1s98ENKmZIVdqdr9xggn6q4qf.jpg" group-title="Películas aventura",Peter Pan (1953)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Películas aventura",Troya (2004) [Goodstream]
+https://hls1.goodstream.one/hls2/02/00010/dir3w4vxlfcc_,l,n,h,.urlset/master.m3u8?t=GRPemwMY_avn6aY_JqH1IRYFMPT6-XAmi8Nwqds78Vo&s=1760394380&e=43200&v=151141254&srv=s1&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Películas aventura",Troya (2004) [Vimeos]
+https://s3.vimeos.net/hls2/02/00000/,8ne6w909tywo_h,.urlset/master.m3u8?t=s66sdVM4902zaNv-f1M7qSDjPdSIWtLfZEUFWg5tFkg&s=1760394171&e=43200&v=13691055&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Bélicas",Troya (2004) [Goodstream]
+https://hls1.goodstream.one/hls2/02/00010/dir3w4vxlfcc_,l,n,h,.urlset/master.m3u8?t=GRPemwMY_avn6aY_JqH1IRYFMPT6-XAmi8Nwqds78Vo&s=1760394380&e=43200&v=151141254&srv=s1&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Bélicas",Troya (2004) [Vimeos]
+https://s3.vimeos.net/hls2/02/00000/,8ne6w909tywo_h,.urlset/master.m3u8?t=s66sdVM4902zaNv-f1M7qSDjPdSIWtLfZEUFWg5tFkg&s=1760394171&e=43200&v=13691055&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.save-free.com/cdn/https://instagram.fiev21-1.fna.fbcdn.net/v/t51.2885-19/554685455_17858993637508485_8898130798192868126_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fiev21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEllnzYtylOTZIgjwvfKctfozFkMY5FRpJwSBdb7XyupbPHsDibL-hw4rBnY0Dp5M4&_nc_ohc=xS1KSxauOsEQ7kNvwE3kGCR&_nc_gid=K6eeavhgtwZFaoCBZUbmHQ&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AffGfnp5IdhLekm2m57EkrXU03R-qsOJG7XdCqit2rFSqQ&oe=68F09179&_nc_sid=1e20d2" group-title="Películas Comedia",Buffalo '66 (1998)
 https://vd402.okcdn.ru/?expires=1760299361890&srcIp=157.180.71.235&pr=10&srcAg=CHROME&ms=185.226.52.47&type=3&sig=x2DzQs3rLlc&ct=0&urls=45.136.21.14&clientType=0&zs=12&id=1282610825874
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Comedia",Cars (2006)
@@ -143,6 +151,10 @@ https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFM
 http://144.217.70.79/VODS-M/1080P/Pinocchio%202019.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY0ODUyODQtYTE4NC00YTgwLTk1ZDgtNjUwNDRjZTIzNTJkXkEyXkFqcGc@._V1_.jpg" group-title="Películas Fantasía",Pinocho (1940)
 http://144.217.70.79/VODS-M/1080P/Pinocchio%201940.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Historia",Troya (2004) [Goodstream]
+https://hls1.goodstream.one/hls2/02/00010/dir3w4vxlfcc_,l,n,h,.urlset/master.m3u8?t=GRPemwMY_avn6aY_JqH1IRYFMPT6-XAmi8Nwqds78Vo&s=1760394380&e=43200&v=151141254&srv=s1&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Historia",Troya (2004) [Vimeos]
+https://s3.vimeos.net/hls2/02/00000/,8ne6w909tywo_h,.urlset/master.m3u8?t=s66sdVM4902zaNv-f1M7qSDjPdSIWtLfZEUFWg5tFkg&s=1760394171&e=43200&v=13691055&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Infantil",Cars (2006)
 http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeusJSmF8I27Bu0fWHa_JtfuIIvWMOimwR4LBTynUdqjdmkqzvbnw4OAs&s=10" group-title="Películas Infantil",Cars 2 (2011)
