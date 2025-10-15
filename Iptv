@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Filemoon]
-https://be7713.rcr82.waw05.i8yz83pn.com/hls2/08/09407/o5pgptlmyh0e_x/master.m3u8?t=storc3eCmqbhyBaPsCwF-299Wzc6NtLv17qw_EipPgw&s=1760338808&e=10800&f=47036301&srv=1055&asn=263754&sp=5500&p=
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Goodstream]
-https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_n/index-v1-a1.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/307560490/s718/gran-turismo.jpg" group-title="Películas acción",Gran Turismo: De Jugador A Corredor (2023) [Voe]
+https://cdn-4tso2lot4vcuvwli.orbitcache.com/engine/hls2/01/09779/zszldnfn8zlg_,n,.urlset/master.m3u8?t=dm6ElRRK4zkOFRXdiKsTp3wZ0sPNxOEDPYj5_GZuVfs&s=1760566719&e=14400&f=68063324&node=lgd2Hgid3iE2S7mwMKB+DVLOpeE3FpGOfCaAbe1ykXA=&i=0.1&sp=2500&asn=27747&q=n&rq=tu24qhgg1LsOPOcuO5FWeCDDyPiEgnCOccSS2sHp
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/307560490/s718/gran-turismo.jpg" group-title="Películas acción",Gran Turismo: De Jugador A Corredor (2023) [Vimeos]
+https://s3.vimeos.net/hls2/02/00000/fiji4rbov1n6_h/master.m3u8?t=v5BADzokA8EWtbc2EiLcA5v6z61paVTmGzWSq__lLGY&s=1760566446&e=43200&v=14220558&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/307560490/s718/gran-turismo.jpg" group-title="Películas acción",Gran Turismo: De Jugador A Corredor (2023) [Filemoon]
+https://be7713.rcr82.waw05.i8yz83pn.com/hls2/02/05213/65bg8lfnfaw3_h/master.m3u8?t=Z-Ui0SOMLjWW6ambzrIuYTdd1oI5C3gFezefcthE5x8&s=1760566816&e=10800&f=41153599&srv=31&asn=27747&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Goodstream 2]
 https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_,l,n,h,.urlset/master.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Voe]
@@ -125,6 +127,12 @@ https://s1.vimeos.net/hls2/04/00004/,35wttgmpnem1_h,.urlset/master.m3u8?t=maR5uW
 https://hls1.goodstream.one/hls2/01/00038/dp5tavu8bgim_,l,n,h,x,.urlset/master.m3u8?t=RwqyTpnK3ouEi-9JiGx5y_SOyWY0tSaEu_cNXvoEQYg&s=1760241367&e=43200&v=150287969&srv=s2&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/25c993571303c57e88e8f86c5ce51925ffe468f376d06e6f0455e1d36a856e27.jpg" group-title="Peliculas Crimen",La mula (2018)
 http://144.217.70.79/VODS-M/1080P/The%20mule%202018.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/307560490/s718/gran-turismo.jpg" group-title="Películas Deportes",Gran Turismo: De Jugador A Corredor (2023) [Filemoon]
+https://be7713.rcr82.waw05.i8yz83pn.com/hls2/02/05213/65bg8lfnfaw3_h/master.m3u8?t=Z-Ui0SOMLjWW6ambzrIuYTdd1oI5C3gFezefcthE5x8&s=1760566816&e=10800&f=41153599&srv=31&asn=27747&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/307560490/s718/gran-turismo.jpg" group-title="Películas Deportes",Gran Turismo: De Jugador A Corredor (2023) [Vimeos]
+https://s3.vimeos.net/hls2/02/00000/fiji4rbov1n6_h/master.m3u8?t=v5BADzokA8EWtbc2EiLcA5v6z61paVTmGzWSq__lLGY&s=1760566446&e=43200&v=14220558&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/307560490/s718/gran-turismo.jpg" group-title="Películas Deportes",Gran Turismo: De Jugador A Corredor (2023) [Voe]
+https://cdn-4tso2lot4vcuvwli.orbitcache.com/engine/hls2/01/09779/zszldnfn8zlg_,n,.urlset/master.m3u8?t=dm6ElRRK4zkOFRXdiKsTp3wZ0sPNxOEDPYj5_GZuVfs&s=1760566719&e=14400&f=68063324&node=lgd2Hgid3iE2S7mwMKB+DVLOpeE3FpGOfCaAbe1ykXA=&i=0.1&sp=2500&asn=27747&q=n&rq=tu24qhgg1LsOPOcuO5FWeCDDyPiEgnCOccSS2sHp
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/45/46/20281036.jpg" group-title="Películas Drama",8 Mile (2002)
 http://archive.org/download/imagen-1_202005/4.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Películas Drama",Ciudad de Dios (2002) [Goodstream]
@@ -261,4 +269,3 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 http://144.217.70.79/VODS-M/1080P/Cars%203%202017.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Peliculas Wéstern",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
-
