@@ -5,8 +5,6 @@ https://cdn-4tso2lot4vcuvwli.orbitcache.com/engine/hls2/01/09779/zszldnfn8zlg_,n
 https://s3.vimeos.net/hls2/02/00000/fiji4rbov1n6_h/master.m3u8?t=v5BADzokA8EWtbc2EiLcA5v6z61paVTmGzWSq__lLGY&s=1760566446&e=43200&v=14220558&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/307560490/s718/gran-turismo.jpg" group-title="Películas acción",Gran Turismo: De Jugador A Corredor (2023) [Filemoon]
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/02/05213/65bg8lfnfaw3_h/master.m3u8?t=Z-Ui0SOMLjWW6ambzrIuYTdd1oI5C3gFezefcthE5x8&s=1760566816&e=10800&f=41153599&srv=31&asn=27747&sp=4000&p=
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Goodstream 2]
-https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_,l,n,h,.urlset/master.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Voe]
 https://cdn-cwue1hiuzak8hq6u.orbitcache.com/engine/hls2/01/14798/udqsqohlfaem_,n,.urlset/master.m3u8?t=cdJlYI4UkBoRvVK3xRcQqbhqQCLJpZ_dK2T41ve_c8o&s=1760338665&e=14400&f=74077421&node=BjOABbk8CCGbUYj3O1ye89Eqwo3NqCenEbYEtJlKxtY=&i=0.1&sp=2500&asn=263754&q=n&rq=RE3dmxvteC9xYeks54Hrfaf77KkxOsoysvUxa5u2
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Vimeos]
@@ -37,6 +35,8 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 http://archive.org/download/V67Q9VIN/LINST423.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/mulan-307796523-large.jpg" group-title="Películas acción",Mulan (2020)
 http://144.217.70.79/VODS-M/1080P/Mulan%202020.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/50/60/20065381.jpg" group-title="Películas acción",Sr. y Sra. Smith (2005)
+http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/5673.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.cdn1.buscalibre.com/fit-in/520x520/2e/64/2e64e8c40bacf7ab1420330e2cba8f44.jpg" group-title="Peliculas Animación",Los aristogatos (1970)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/13688.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas aventura",Dumbo (2019)
@@ -77,8 +77,6 @@ https://s3.vimeos.net/hls2/02/00000/,8ne6w909tywo_h,.urlset/master.m3u8?t=s66sdV
 https://hls1.goodstream.one/hls2/02/00010/dir3w4vxlfcc_,l,n,h,.urlset/master.m3u8?t=GRPemwMY_avn6aY_JqH1IRYFMPT6-XAmi8Nwqds78Vo&s=1760394380&e=43200&v=151141254&srv=s1&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Bélicas",Troya (2004) [Vimeos]
 https://s3.vimeos.net/hls2/02/00000/,8ne6w909tywo_h,.urlset/master.m3u8?t=s66sdVM4902zaNv-f1M7qSDjPdSIWtLfZEUFWg5tFkg&s=1760394171&e=43200&v=13691055&i=0.0&sp=0&r=e
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.save-free.com/cdn/https://instagram.fiev21-1.fna.fbcdn.net/v/t51.2885-19/554685455_17858993637508485_8898130798192868126_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fiev21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEllnzYtylOTZIgjwvfKctfozFkMY5FRpJwSBdb7XyupbPHsDibL-hw4rBnY0Dp5M4&_nc_ohc=xS1KSxauOsEQ7kNvwE3kGCR&_nc_gid=K6eeavhgtwZFaoCBZUbmHQ&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AffGfnp5IdhLekm2m57EkrXU03R-qsOJG7XdCqit2rFSqQ&oe=68F09179&_nc_sid=1e20d2" group-title="Películas Comedia",Buffalo '66 (1998)
-https://vd402.okcdn.ru/?expires=1760299361890&srcIp=157.180.71.235&pr=10&srcAg=CHROME&ms=185.226.52.47&type=3&sig=x2DzQs3rLlc&ct=0&urls=45.136.21.14&clientType=0&zs=12&id=1282610825874
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Comedia",Cars (2006)
 http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Comedia",Cars (2006)
@@ -99,6 +97,8 @@ https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu
 https://cdn-lglttksvjqjetqih.orbitcache.com/engine/hls2/01/11995/adpyxkcfqrqi_,n,.urlset/index-v1-a1.m3u8?t=zUrgdWxqRJp09YC67sP2VSu65Ozd6XOut6Gtc2_8MhA&s=1760230991&e=14400&f=59979343&node=+2bpgJxXD7r0sv08PpTAO10XicJpMqJ6crJQWOZy8GQ=&i=0.1&sp=2500&asn=27747&q=n&rq=0bMnBIBd3SMoOqonYMV6mbB8TwiQhWF7TZVtwTCx
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/xdK5Rrnp0bSC7oby4_hY1u-ngVQSVGczWx84dD-rD6bfwLpxlWGBpnvsJnqPg8VLDQSl" group-title="Películas Comedia",los tres chiflados (2012)
 https://cdn-lglttksvjqjetqih.orbitcache.com/engine/hls2/01/11995/adpyxkcfqrqi_,n,.urlset/index-v1-a1.m3u8?t=zUrgdWxqRJp09YC67sP2VSu65Ozd6XOut6Gtc2_8MhA&s=1760230991&e=14400&f=59979343&node=+2bpgJxXD7r0sv08PpTAO10XicJpMqJ6crJQWOZy8GQ=&i=0.1&sp=2500&asn=27747&q=n&rq=0bMnBIBd3SMoOqonYMV6mbB8TwiQhWF7TZVtwTCx
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/50/60/20065381.jpg" group-title="Películas Comedia",Sr. y Sra. Smith (2005)
+http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/5673.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IyN2YxN2MtNjcyMy00ZTExLTgwZWMtZDMwYTliOTY4MDYyXkEyXkFqcGc@._V1_.jpg" group-title="Películas Comedia",Una batalla tras otra (2025)
 https://s1.vimeos.net/hls2/05/00005/hhiokekhqyxi_h/index-v1-a1.m3u8?t=JrgP-9JKqZvAx2rPcNEl-T_7nIOAMbKW9MWPCUbnrDo&s=1760184442&e=43200&v=12874347&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IyN2YxN2MtNjcyMy00ZTExLTgwZWMtZDMwYTliOTY4MDYyXkEyXkFqcGc@._V1_.jpg" group-title="Películas Comedia",Una batalla tras otra (2025)
@@ -277,5 +277,4 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 http://144.217.70.79/VODS-M/1080P/Cars%203%202017.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Peliculas Wéstern",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
-
 
