@@ -5,8 +5,8 @@ https://cdn-4tso2lot4vcuvwli.orbitcache.com/engine/hls2/01/09779/zszldnfn8zlg_,n
 https://s3.vimeos.net/hls2/02/00000/fiji4rbov1n6_h/master.m3u8?t=v5BADzokA8EWtbc2EiLcA5v6z61paVTmGzWSq__lLGY&s=1760566446&e=43200&v=14220558&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/307560490/s718/gran-turismo.jpg" group-title="Películas acción",Gran Turismo: De Jugador A Corredor (2023) [Filemoon]
 https://be7713.rcr82.waw05.i8yz83pn.com/hls2/02/05213/65bg8lfnfaw3_h/master.m3u8?t=Z-Ui0SOMLjWW6ambzrIuYTdd1oI5C3gFezefcthE5x8&s=1760566816&e=10800&f=41153599&srv=31&asn=27747&sp=4000&p=
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Voe]
-https://cdn-cwue1hiuzak8hq6u.orbitcache.com/engine/hls2/01/14798/udqsqohlfaem_,n,.urlset/master.m3u8?t=cdJlYI4UkBoRvVK3xRcQqbhqQCLJpZ_dK2T41ve_c8o&s=1760338665&e=14400&f=74077421&node=BjOABbk8CCGbUYj3O1ye89Eqwo3NqCenEbYEtJlKxtY=&i=0.1&sp=2500&asn=263754&q=n&rq=RE3dmxvteC9xYeks54Hrfaf77KkxOsoysvUxa5u2
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Fv9JDo0XsAQO5jV.jpg" group-title="Películas acción",Soy leyenda (2007)
+http://144.217.70.79/VODS-M/1080P/I%20Am%20Legend%202007.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Vimeos]
 https://s3.vimeos.net/hls2/01/00004/,im2l7xko24xc_h,.urlset/master.m3u8?t=iNBr1LYIulpz5Hzv9PlYpQNWzER1OXcPzz3d7OYdQ8o&s=1760338131&e=43200&v=13522557&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas acción",Los indestructibles
@@ -273,8 +273,8 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg" group-title="Películas suspenso",Los indestructibles 3 (2014)
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/fbca6649-d974-4c22-bf04-37dfa73768fc/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Peliculas Deportes",Cars 3 (2017)
-http://144.217.70.79/VODS-M/1080P/Cars%203%202017.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Fv9JDo0XsAQO5jV.jpg" group-title="Peliculas Terror",Soy leyenda (2007)
+http://144.217.70.79/VODS-M/1080P/I%20Am%20Legend%202007.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Peliculas Wéstern",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
 
