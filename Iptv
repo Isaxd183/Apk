@@ -69,14 +69,14 @@ http://144.217.70.79/VODS-M/1080P/Mulan%202020.mkv
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/1906.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/pocahontas_ii_journey_to_a_new_world-142567341-large.jpg" group-title="Películas aventura",Pocahontas 2 (1998)
 http://144.217.70.79/VODS-M/1080P/Pocahontas%202%201998.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Películas aventura",Troya (2004) [Goodstream]
-https://hls1.goodstream.one/hls2/02/00010/dir3w4vxlfcc_,l,n,h,.urlset/master.m3u8?t=GRPemwMY_avn6aY_JqH1IRYFMPT6-XAmi8Nwqds78Vo&s=1760394380&e=43200&v=151141254&srv=s1&i=0.3&sp=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Películas aventura",Troya (2004) [Vimeos]
-https://s3.vimeos.net/hls2/02/00000/,8ne6w909tywo_h,.urlset/master.m3u8?t=s66sdVM4902zaNv-f1M7qSDjPdSIWtLfZEUFWg5tFkg&s=1760394171&e=43200&v=13691055&i=0.0&sp=0&r=e
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Bélicas",Troya (2004) [Goodstream]
-https://hls1.goodstream.one/hls2/02/00010/dir3w4vxlfcc_,l,n,h,.urlset/master.m3u8?t=GRPemwMY_avn6aY_JqH1IRYFMPT6-XAmi8Nwqds78Vo&s=1760394380&e=43200&v=151141254&srv=s1&i=0.3&sp=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Bélicas",Troya (2004) [Vimeos]
-https://s3.vimeos.net/hls2/02/00000/,8ne6w909tywo_h,.urlset/master.m3u8?t=s66sdVM4902zaNv-f1M7qSDjPdSIWtLfZEUFWg5tFkg&s=1760394171&e=43200&v=13691055&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Películas aventura",Troya (2004)
+https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH-Lv7Tcr9DjjwClSbop1jcXdphNq3AbzL4jZ9qY&s=1760792328&e=10800&f=31323943&srv=1075&asn=263754&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Películas aventura",Troya (2004)
+https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH-Lv7Tcr9DjjwClSbop1jcXdphNq3AbzL4jZ9qY&s=1760792328&e=10800&f=31323943&srv=1075&asn=263754&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Bélicas",Troya (2004)
+https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH-Lv7Tcr9DjjwClSbop1jcXdphNq3AbzL4jZ9qY&s=1760792328&e=10800&f=31323943&srv=1075&asn=263754&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Bélicas",Troya (2004)
+https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH-Lv7Tcr9DjjwClSbop1jcXdphNq3AbzL4jZ9qY&s=1760792328&e=10800&f=31323943&srv=1075&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Comedia",Cars (2006)
 http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Comedia",Cars (2006)
@@ -163,10 +163,10 @@ https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFM
 http://144.217.70.79/VODS-M/1080P/Pinocchio%202019.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY0ODUyODQtYTE4NC00YTgwLTk1ZDgtNjUwNDRjZTIzNTJkXkEyXkFqcGc@._V1_.jpg" group-title="Películas Fantasía",Pinocho (1940)
 http://144.217.70.79/VODS-M/1080P/Pinocchio%201940.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Historia",Troya (2004) [Goodstream]
-https://hls1.goodstream.one/hls2/02/00010/dir3w4vxlfcc_,l,n,h,.urlset/master.m3u8?t=GRPemwMY_avn6aY_JqH1IRYFMPT6-XAmi8Nwqds78Vo&s=1760394380&e=43200&v=151141254&srv=s1&i=0.3&sp=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Historia",Troya (2004) [Vimeos]
-https://s3.vimeos.net/hls2/02/00000/,8ne6w909tywo_h,.urlset/master.m3u8?t=s66sdVM4902zaNv-f1M7qSDjPdSIWtLfZEUFWg5tFkg&s=1760394171&e=43200&v=13691055&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Historia",Troya (2004)
+https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH-Lv7Tcr9DjjwClSbop1jcXdphNq3AbzL4jZ9qY&s=1760792328&e=10800&f=31323943&srv=1075&asn=263754&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Historia",Troya (2004)
+https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH-Lv7Tcr9DjjwClSbop1jcXdphNq3AbzL4jZ9qY&s=1760792328&e=10800&f=31323943&srv=1075&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Infantil",Cars (2006)
 http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeusJSmF8I27Bu0fWHa_JtfuIIvWMOimwR4LBTynUdqjdmkqzvbnw4OAs&s=10" group-title="Películas Infantil",Cars 2 (2011)
