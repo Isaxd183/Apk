@@ -87,10 +87,10 @@ http://144.217.70.79/VODS-M/1080P/Cars%202%202011.mkv
 https://archive.org/download/3spe3c1as/r3c3t4r1o/d14r10/d14r10.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Comedia",La cita de Carl (2023)
 https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu9U7jGHy0du8Nqb1DogCabW8q5YcRaIwO8&s=1760229185&e=43200&v=13043788&i=0.0&sp=1000&r=e
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Comedia",La cita de Carl (2023)
-https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu9U7jGHy0du8Nqb1DogCabW8q5YcRaIwO8&s=1760229185&e=43200&v=13043788&i=0.0&sp=1000&r=e
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Comedia",La cita de Carl (2023)
-https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu9U7jGHy0du8Nqb1DogCabW8q5YcRaIwO8&s=1760229185&e=43200&v=13043788&i=0.0&sp=1000&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bd/Meet-the-robinsons-2.jpg/revision/latest/scale-to-width-down/1200?cb=20200812001430&path-prefix=es" group-title="Películas Comedia",La familia del futuro (2007) [Server 1]
+https://be2719.rcr22.ams01.i8yz83pn.com/download/02/05621/t0b0npoci9fv_h/243280%20c3153db4%204be4%204515%2094a9%20cea303b4a445%20ijph%202114293%20filemoon%20mp4?t=Fm6pz3vxfTpz11qK830dikcqLwZNTAolZGiib7NXv7M&s=1760794160&e=10800&f=28108772&srv=31&asn=263754&sp=500
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bd/Meet-the-robinsons-2.jpg/revision/latest/scale-to-width-down/1200?cb=20200812001430&path-prefix=es" group-title="Películas Comedia",La familia del futuro (2007) [server 2]
+https://be6721.rcr72.waw04.i8yz83pn.com/hls2/02/05621/t0b0npoci9fv_h/master.m3u8?t=FYJFvXcehGsY5lnSPBW48fWJmWxhVwntgaMZx2IIhwg&s=1760794146&e=10800&f=28108772&srv=31&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJiNjU4YzEtMTUxNS00YmVkLTg3MDYtMzU1MjA1N2IyYmFhXkEyXkFqcGc@._V1_.jpg" group-title="Películas Comedia",La propuesta (2009)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/7568.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/xdK5Rrnp0bSC7oby4_hY1u-ngVQSVGczWx84dD-rD6bfwLpxlWGBpnvsJnqPg8VLDQSl" group-title="Películas Comedia",los tres chiflados (2012)
@@ -191,8 +191,16 @@ http://144.217.70.79/VODS-M/1080P/The%20Hunchback%20of%20Notre%20Dame%20II%20200
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/41253.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu9X1FrUtromTHBCuup6NrfFiRLcgKNV2bd5WdVGendBTi7UM_" group-title="Películas Infantil",La cita de Carl (2023)
 https://s1.vimeos.net/hls2/02/00003/gbks0jvydrf6_h/index-v1-a1.m3u8?t=QZBUeyv6yu9U7jGHy0du8Nqb1DogCabW8q5YcRaIwO8&s=1760229185&e=43200&v=13043788&i=0.0&sp=1000&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disneypixar/images/5/54/La_Dama_Y_El_Vagabundo_%281%29.jpg/revision/latest/scale-to-width-down/348?cb=20130123050313&path-prefix=es" group-title="Películas Infantil",La dama y el vagabundo (1955)
+http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/41241.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/lady_and_the_tramp-469306482-large.jpg" group-title="Películas Infantil",La Dama y El Vagabundo (2019)
+http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/41307.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/16/La_escuela_del_bien_y_del_mal.jpg/revision/latest?cb=20221020185651&path-prefix=es" group-title="Películas Infantil",La escuela del Bien y del Mal (2022)
 https://s1.vimeos.net/hls2/04/00000/3i1f52unlt15_h/index-v1-a1.m3u8?t=EVGO8lRMFMQczyPBMjXUBza2ZWQDgo2rpLpWh0QMENI&s=1760183825&e=43200&v=12873781&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bd/Meet-the-robinsons-2.jpg/revision/latest/scale-to-width-down/1200?cb=20200812001430&path-prefix=es" group-title="Películas Infantil",La familia del futuro (2007) [Server 1]
+https://be2719.rcr22.ams01.i8yz83pn.com/download/02/05621/t0b0npoci9fv_h/243280%20c3153db4%204be4%204515%2094a9%20cea303b4a445%20ijph%202114293%20filemoon%20mp4?t=Fm6pz3vxfTpz11qK830dikcqLwZNTAolZGiib7NXv7M&s=1760794160&e=10800&f=28108772&srv=31&asn=263754&sp=500
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bd/Meet-the-robinsons-2.jpg/revision/latest/scale-to-width-down/1200?cb=20200812001430&path-prefix=es" group-title="Películas Infantil",La familia del futuro (2007) [server 2]
+https://be6721.rcr72.waw04.i8yz83pn.com/hls2/02/05621/t0b0npoci9fv_h/master.m3u8?t=FYJFvXcehGsY5lnSPBW48fWJmWxhVwntgaMZx2IIhwg&s=1760794146&e=10800&f=28108772&srv=31&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/dog_man/posters/01.jpg" group-title="Películas Infantil",Las aventuras de Dog Man (2025)
 https://s1.vimeos.net/hls2/05/00000/,2xlfwt7g0il2_h,.urlset/master.m3u8?t=oprHeIrp1OACmAauik96bylUB72MVoKsRHJ7_rbalp8&s=1760238373&e=43200&v=13108615&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/dog_man/posters/01.jpg" group-title="Películas Infantil",Las aventuras de Dog Man (Filemoon)
@@ -211,10 +219,6 @@ http://144.217.70.79/VODS-M/1080P/Pocahontas%201995.mkv
 http://144.217.70.79/VODS-M/1080P/Pocahontas%202%201998.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/Vacas-vaqueras.jpg/revision/latest?cb=20200721234642&path-prefix=es" group-title="Películas Infantil",Vacas vaqueras (2004)
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/disneypixar/images/5/54/La_Dama_Y_El_Vagabundo_%281%29.jpg/revision/latest/scale-to-width-down/348?cb=20130123050313&path-prefix=es" group-title="Películas Infantil",La dama y el vagabundo (1955)
-http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/41241.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/lady_and_the_tramp-469306482-large.jpg" group-title="Películas Infantil",La Dama y El Vagabundo (2019)
-http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/41307.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/45/46/20281036.jpg" group-title="Peliculas Musical",8 Mile (2002)
 http://archive.org/download/imagen-1_202005/4.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Filemoon]
