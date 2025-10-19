@@ -5,7 +5,7 @@ https://archive.org/download/03_20241006/linux/02.mp4
 http://144.217.70.79/VODS-M/1080P/The%20Transporter%202002.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyMjE4NmUtZWFmYS00NzA0LWEwYzQtNzY1MzRkYWZiZjM5XkEyXkFqcGc@._V1_.jpg" group-title="Películas acción",El transportador 2 (2005)
 http://ia903104.us.archive.org/0/items/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/12.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81QMiE2cM+L._UF894,1000_QL80_.jpg" group-title="Películas acción",El transportador 3 (2008)
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81QMiE2cM+L._UF894,1000_QL80_.jpg" group-title="Películas acción",El Transportador 3
 http://ia903104.us.archive.org/0/items/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/13.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7ZS4BB0hZznIiA7XzTQ1cWiiUKTB8dkIKr1OLpHYS5xujFTf4F0chsy9iRtJFJWOrpU" group-title="Películas acción",El transportador 4: El transportador recargado (2015)
 http://144.217.70.79/VODS-M/1080P/The%20transporter%20Refueled%202015.mkv
@@ -19,12 +19,6 @@ http://144.217.70.79/VODS-M/1080P/The%20Expendables%202%202012.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%203%202014.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I0giWOAwgdoE_eN3rp_ni0Nx5o4xlnwWvkb0IIHhPA&s=10" group-title="Películas acción",Los indestructibles 4 (2023)
 http://archive.org/download/V67Q9VIN/LINST423.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Goodstream 2]
-https://hls1.goodstream.one/hls2/01/00037/wd7lkke0ep9n_,l,n,h,.urlset/master.m3u8?t=9J4dEWDsY_V_lHxlJJy31CkcFSvtCHkxSKV-l6b1ulQ&s=1760338445&e=43200&v=150870191&srv=s2&i=0.3&sp=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Voe]
-https://cdn-cwue1hiuzak8hq6u.orbitcache.com/engine/hls2/01/14798/udqsqohlfaem_,n,.urlset/master.m3u8?t=cdJlYI4UkBoRvVK3xRcQqbhqQCLJpZ_dK2T41ve_c8o&s=1760338665&e=14400&f=74077421&node=BjOABbk8CCGbUYj3O1ye89Eqwo3NqCenEbYEtJlKxtY=&i=0.1&sp=2500&asn=263754&q=n&rq=RE3dmxvteC9xYeks54Hrfaf77KkxOsoysvUxa5u2
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg" group-title="Películas acción",La vieja guardia 2 (2025) [Vimeos]
-https://s3.vimeos.net/hls2/01/00004/,im2l7xko24xc_h,.urlset/master.m3u8?t=iNBr1LYIulpz5Hzv9PlYpQNWzER1OXcPzz3d7OYdQ8o&s=1760338131&e=43200&v=13522557&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkUV4UjYh_lgCTZisF8oy6glurHI0kinun7Rr9YhAJQ&s=10" group-title="Películas acción",Los indestructibles
 http://144.217.70.79/VODS-M/1080P/The%20Expendables%202010.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRful5RnvZEix43eyaJ4CYjFJCR2Yg7t0gGvQ-APNNVvQ&s=10" group-title="Películas acción",Los indestructibles 2 (2012)
@@ -37,6 +31,18 @@ http://archive.org/download/V67Q9VIN/LINST423.mkv
 http://144.217.70.79/VODS-M/1080P/Mulan%202020.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/50/60/20065381.jpg" group-title="Películas acción",Sr. y Sra. Smith (2005)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/5673.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/12/15/14/218373.jpg" group-title="Películas acción",Terminator (1984)
+http://144.217.70.79/VODS-M/1080P/Terminator%201984.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/14/12/15/4371161.jpg" group-title="Películas acción",Terminator 2: el juicio final (1991)
+http://144.217.70.79/VODS-M/1080P/Terminator%202%20El%20Juicio%20Final%201991.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/19/79/20134033.jpg" group-title="Películas acción",Terminator 3: La rebelión de las máquinas (2003)
+http://144.217.70.79/VODS-M/1080P/Terminator%203%20Rise%20of%20the%20Machines%202003.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/97/Terminator_-_la_salvacion_1.jpg/revision/latest?cb=20210408232711&path-prefix=es" group-title="Películas acción",Terminator: La Salvacion (2009)
+http://144.217.70.79/VODS-M/1080P/Terminator%20Salvation%202009.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_FMjpg_UX1000_.jpg" group-title="Películas acción",Terminator Génesis (2015)
+http://144.217.70.79/VODS-M/1080P/Terminator%20Genisys%202015.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2f/TERMINATOR_POSTER_FINAL.jpg/revision/latest?cb=20190830042041&path-prefix=es" group-title="Películas acción",Terminator: destino oculto (2019)
+http://144.217.70.79/VODS-M/1080P/Terminator%20Dark%20Fate%202019.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.cdn1.buscalibre.com/fit-in/520x520/2e/64/2e64e8c40bacf7ab1420330e2cba8f44.jpg" group-title="Peliculas Animación",Los aristogatos (1970)
 http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/13688.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Dumbo_%282019_film%29.png" group-title="Películas aventura",Dumbo (2019)
@@ -77,6 +83,18 @@ https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH
 https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH-Lv7Tcr9DjjwClSbop1jcXdphNq3AbzL4jZ9qY&s=1760792328&e=10800&f=31323943&srv=1075&asn=263754&sp=4000&p=
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original//mBiDQT28DnuYaJSL4nDD43ORE6p.jpg" group-title="Peliculas Bélicas",Troya (2004)
 https://fin-3dg-b1.i8yz83pn.com/hls2/04/05772/2j7thas60zhl_h/master.m3u8?t=2NRxH-Lv7Tcr9DjjwClSbop1jcXdphNq3AbzL4jZ9qY&s=1760792328&e=10800&f=31323943&srv=1075&asn=263754&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/12/15/14/218373.jpg" group-title="Peliculas Ciencia Ficción",Terminator (1984)
+http://144.217.70.79/VODS-M/1080P/Terminator%201984.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/14/12/15/4371161.jpg" group-title="Peliculas Ciencia Ficción",Terminator 2: el juicio final (1991)
+http://144.217.70.79/VODS-M/1080P/Terminator%202%20El%20Juicio%20Final%201991.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/19/79/20134033.jpg" group-title="Peliculas Ciencia Ficción",Terminator 3: La rebelión de las máquinas (2003)
+http://144.217.70.79/VODS-M/1080P/Terminator%203%20Rise%20of%20the%20Machines%202003.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/97/Terminator_-_la_salvacion_1.jpg/revision/latest?cb=20210408232711&path-prefix=es" group-title="Peliculas Ciencia Ficción",Terminator: La Salvacion (2009)
+http://144.217.70.79/VODS-M/1080P/Terminator%20Salvation%202009.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas Ciencia Ficción",Terminator Génesis (2015)
+http://144.217.70.79/VODS-M/1080P/Terminator%20Genisys%202015.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2f/TERMINATOR_POSTER_FINAL.jpg/revision/latest?cb=20190830042041&path-prefix=es" group-title="Peliculas Ciencia Ficción",Terminator: destino oculto (2019)
+http://144.217.70.79/VODS-M/1080P/Terminator%20Dark%20Fate%202019.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Comedia",Cars (2006)
 http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cars-746710621-large.jpg" group-title="Películas Comedia",Cars (2006)
@@ -265,7 +283,7 @@ http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/7568.mkv
 http://144.217.70.79/VODS-M/1080P/The%20Transporter%202002.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyMjE4NmUtZWFmYS00NzA0LWEwYzQtNzY1MzRkYWZiZjM5XkEyXkFqcGc@._V1_.jpg" group-title="Películas suspenso",El transportador 2 (2005)
 http://ia903104.us.archive.org/0/items/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/12.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81QMiE2cM+L._UF894,1000_QL80_.jpg" group-title="Películas suspenso",El transportador 3 (2008)
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81QMiE2cM+L._UF894,1000_QL80_.jpg" group-title="Películas suspenso",1000_QL80_.jpg" group-title="Películas suspenso"
 http://ia903104.us.archive.org/0/items/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/13.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7ZS4BB0hZznIiA7XzTQ1cWiiUKTB8dkIKr1OLpHYS5xujFTf4F0chsy9iRtJFJWOrpU" group-title="Películas suspenso",El transportador 4: El transportador recargado (2015)
 http://144.217.70.79/VODS-M/1080P/The%20transporter%20Refueled%202015.mkv
