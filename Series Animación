@@ -1,7 +1,29 @@
 #EXTM3U
-#EXTINF:1 tvg-name="South Park T0 E1" tvg-logo="https://static.wikia.nocookie.net/southparkla/images/0/0c/Temporada_1.jpg/revision/latest/scale-to-width/360?cb=20120706170939&path-prefix=es" group-title="South Park",South Park T0 E1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/southparkla/images/0/0c/Temporada_1.jpg/revision/latest/scale-to-width/360?cb=20120706170939&path-prefix=es" group-title="South Park",South Park T0 E1
 https://archive.org/download/south-park-latino/South%20Park%20%281997%29%20-%20S00E01%20-%20El%20espiritu%20de%20la%20navidad%20%28Jesus%20vs.%20Frosty%29.mkv
-#EXTINF:1 tvg-name="South Park T0 E3" tvg-logo="https://static.wikia.nocookie.net/southparkla/images/0/0c/Temporada_1.jpg/revision/latest/scale-to-width/360?cb=20120706170939&path-prefix=es" group-title="South Park",South Park T0 E3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/southparkla/images/0/0c/Temporada_1.jpg/revision/latest/scale-to-width/360?cb=20120706170939&path-prefix=es" group-title="South Park",South Park T0 E3
 https://archive.org/download/south-park-latino/South%20Park%20%281997%29%20-%20S00E03%20-%20El%20espiritu%20de%20la%20navidad%20%28Jesus%20vs.%20Santa%29.mp4
-#EXTINF:1 tvg-name="South Park T0 E28" tvg-logo="https://static.wikia.nocookie.net/southparkla/images/0/0c/Temporada_1.jpg/revision/latest/scale-to-width/360?cb=20120706170939&path-prefix=es" group-title="South Park",South Park T0 E28
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/southparkla/images/0/0c/Temporada_1.jpg/revision/latest/scale-to-width/360?cb=20120706170939&path-prefix=es" group-title="South Park",South Park T0 E28
 https://archive.org/download/south-park-latino/South%20Park%20%281997%29%20-%20S00E28%20-%20Cartman%20consigue%20una%20sonda%20anal%20%28No-Transmitido%29.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E1
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x01.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E2
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x02.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E3
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x03.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E4
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x04.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E5
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x05.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E6
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x06.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E7
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x07.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E8
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x08.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E9
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x09.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E10
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x10.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.justwatch.com/poster/194366728/s718/rick-and-morty.jpg" group-title="Rick y Morty",Rick y Morty T1 E11
+https://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/01x11.mkv
