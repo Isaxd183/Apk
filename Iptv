@@ -183,8 +183,8 @@ https://s3.vimeos.net/hls2/02/00000/fiji4rbov1n6_h/master.m3u8?t=v5BADzokA8EWtbc
 https://cdn-4tso2lot4vcuvwli.orbitcache.com/engine/hls2/01/09779/zszldnfn8zlg_,n,.urlset/master.m3u8?t=dm6ElRRK4zkOFRXdiKsTp3wZ0sPNxOEDPYj5_GZuVfs&s=1760566719&e=14400&f=68063324&node=lgd2Hgid3iE2S7mwMKB+DVLOpeE3FpGOfCaAbe1ykXA=&i=0.1&sp=2500&asn=27747&q=n&rq=tu24qhgg1LsOPOcuO5FWeCDDyPiEgnCOccSS2sHp
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/45/46/20281036.jpg" group-title="Películas Drama",8 Mile (2002)
 http://archive.org/download/imagen-1_202005/4.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Películas Drama",Ciudad de Dios (2002) [Goodstream]
-https://hls1.goodstream.one/hls2/01/00038/dp5tavu8bgim_,l,n,h,x,.urlset/master.m3u8?t=RwqyTpnK3ouEi-9JiGx5y_SOyWY0tSaEu_cNXvoEQYg&s=1760241367&e=43200&v=150287969&srv=s2&i=0.3&sp=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/d3ca3ef8-8aef-413b-9e2e-f914464ead6e/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Películas Drama",Bohemian Rhapsody: la historia de Freddie Mercury
+http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/25329.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg" group-title="Películas Drama",Ciudad de Dios (2002) [Vimeos]
 https://s1.vimeos.net/hls2/04/00004/,35wttgmpnem1_h,.urlset/master.m3u8?t=maR5uWJhrxHhScW_TFiENK2aXuXknDGVq6uLVVRz724&s=1760240950&e=43200&v=13127345&i=0.0&sp=1000&r=e
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IyN2YxN2MtNjcyMy00ZTExLTgwZWMtZDMwYTliOTY4MDYyXkEyXkFqcGc@._V1_.jpg" group-title="Películas Drama",Una batalla tras otra (2025)
@@ -271,8 +271,8 @@ http://lb42.xxip9.top:25461/movie/781453/852364/200620.mp4?token=ThFcUhFaQQwRVlR
 https://hls2.goodstream.one/hls2/02/00019/kubs691op6ik_,l,n,h,x,.urlset/master.m3u8?t=hHHUYP40rwc15K8OP7gndc07LAU_ptKV5c4rrMP57-Y&s=1760985100&e=43200&v=154586723&srv=s1&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/45/46/20281036.jpg" group-title="Peliculas Musical",8 Mile (2002)
 http://archive.org/download/imagen-1_202005/4.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Filemoon]
-https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/06041/qnzz76xand9y_h/master.m3u8?t=GuBpGt3H6Vi8qHz6tujrfzrNpwZ6cZmQ_ocIPDollB8&s=1760383593&e=10800&f=42372722&srv=1075&asn=263754&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/d3ca3ef8-8aef-413b-9e2e-f914464ead6e/compose?aspectRatio=1.78&format=webp&width=1200" group-title="Peliculas Musical",Bohemian Rhapsody: la historia de Freddie Mercury
+http://tv.proyectox.vip:8080/movie/USA4425010260/LgucHzwXKr/25329.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Goodstream]
 https://hls1.goodstream.one/hls2/02/00022/dgqgdy5wqrnd_,l,n,h,x,.urlset/master.m3u8?t=mI2RQdauY1HHBQWLoflatDOV6hort0KhJb-YzPjdQ5A&s=1760383422&e=43200&v=151066562&srv=s1&i=0.3&sp=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/f7/4f/48f74fe256dbac460ca4d16e3d6a592d.jpg" group-title="Peliculas Musical",Dumbo (1941) [Voe]
@@ -349,12 +349,4 @@ http://23.139.96.20/vauth/ar-Ohvy5FKvtRR6d9m7od1clykIvHl0B_1Ss343qS9ZlLNQK6xHOCZ
 https://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg" group-title="Peliculas Wéstern",Volver al futuro III (1990)
 http://lb42.xxip9.top:25461/movie/781453/852364/200620.mp4?token=ThFcUhFaQQwRVlRWV1ADV1AFXFMJUAIHVQBbVQkFUQtWBQ0FUgVQBFUQHkdBQURQV1g7WFQWCgBTUlUBCR8RR0ZWRmwLVkEMEQMGVAcEABcaFxBYXVESCFJVVQMACwUHBQUYERJbBxQJEABWAAcPFxoXAUlEUUJcAg48V1xFWlFQEQ4RQB5BWV1tVgBfVFhRFA9GARIYElsQEkEJV0ZfXhkRVloWQAJCVhAIRwACBAcUGUZSX0FeRhEbQQkbcmEQGRFRSxZXDUVaXVxHCBdbRQIXSBNZR29ABhEXQVxSXldHEQ4RUhBPFF5TSjpRWlhbU1YQWF9aQxBZQFIDGx8RX1pdXUcNQDxGWlYQX1xAWllL
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=">PRUEBAS< [SOLO ADMIN]",fenixplay 1
-http://v3.f-play.cc:8080/vauth/537423.mkv?token=UuCrFmJgo_cS3hqHubdfp1rkM5SSbUJRpjqjwxOr7q1iePK3cB0DAPqnlCS7g7OgHQDt-7R4xIsaSpqhvfZC7X1oN0gg8AptONTcC1cempOevK1fDzhRY0Ph8gTuWfgyUDDpC1jdA3ifPvMtxZq03o_8sMaCC7xGGtViBNbV0KUNfGhFzNSCVtEOR-E3l58SSpqjHOv7Pj7Zmc3t9ZqG5JZFO7bMwtFp0RoXsVH5pKrXHWq3MF-sP6smvflQ4Gb4RSNghj9VpVvLYT_7Y_IQLvHlRsTrYeICuq-JaK2Pv5j5KbZAdU9QXGj9X_of1QYL7X8OnfUnx-PGYkrdqAMxLGtc-cwPHHLI6opYpknQpwpdSFXgL7SDcjlHPiKfXdLRHxbkAaKmrGgxQM_fTvu9fnGvYuxOD8oiiT2vdZFeyuvrudKwVRZunm1cvZXA-xZUOpvvKY4qCLC6Y8NYUjNirpAzEbRiG0ozM8hTZRsGPa9j2hiTU_GUddJgSaitBrVu95NFHFmt2ym31AoeHUmiR-stImq1xZ-ARar_v89kPOet6FePk7OAYRYDB7-Na7c97ZUXo4gDniGcf-5mxX-2ywazP85eN5UP51xnNzMRl91Jk4418t68oe-UBwlwdW-d_oe3ajKGzUcEhzKNyG0xHQ
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=">PRUEBAS< [SOLO ADMIN]",fenixplay 2
-http://fenixplay.info:8080/movie/EstebanMG/C2wmrDSNTtmz/537423.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=">PRUEBAS< [SOLO ADMIN]",fenixplay 3
-http://v3.f-play.cc:8080/vauth/537423.mkv?token=UuCrFmJgo_cS3hqHubdfp1rkM5SSbUJRpjqjwxOr7q1iePK3cB0DAPqnlCS7g7OgHQDt-7R4xIsaSpqhvfZC7X1oN0gg8AptONTcC1cempOevK1fDzhRY0Ph8gTuWfgy-t60PU4uYZbE2tgfgvMN9sKCSIDNlMBUuahvIdC_glgPgWUoux-cwg59gsw0bwAej-fVycZMGX0KXE5Gyl73HpHYb7jOCiEFHTOdjEvXT47g4p_oajn4_lamBykL7b0KmkAu9xQB8pXg7JBFaeXRONER3uHnDwfS73Qz1sMrfEQUcHjihC_7Mvs77soaEmxIbsb1CdB_hk108PJ_t92Y94LyApdzjB0bW4rnhPdt59vHa5XKBajyQpK9Ia05chAguDVzWSebV9gtW74lX9yb4Go45DiBfmimVDGkdjqQQGENYsDDUKm2zpwFPgylpStnjU0bejR0-R3PioKR8XtCnxMHX_orA-EdvKbyH1RKPEsA50vltLA0lll_Ik43MPJnQoKAywrx5itPILfogjl2b7YoEes2KID1tfXdWGK-Z6Rt8O_JBgORoF-7ipz3e8RDaWd2zOOhY1qLU5xGFPeI4RleTTGju1g_U3KiJCAJDGObZiv4te1POHfRhQ8lwR-pa_6rA1lLadWiL5d0lji-Sw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=">PRUEBAS< [SOLO ADMIN]",detodopeliculas.nu [STREAM]
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/09/10056/9in5v6fehyzs_x/master.m3u8?t=FLBLTZR4PwybmrnNDJT3q-j7jSDFndKJ63pARA9BiqI&s=1760789953&e=10800&f=50284763&srv=1065&asn=263754&sp=5500&p=
 
